@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* remove side scroll bar */
+  overflow-x: clip;
+}
+canvas {
+  display: block;
+}
+
+/* css comments are also different */
+/* choose the html element we would like to change the style */
+p{
+  background-color: blue;
+  color: white;
+}
